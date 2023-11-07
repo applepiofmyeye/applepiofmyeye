@@ -1,8 +1,6 @@
 # Hi 👋, I'm Joey
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=applepiofmyeye&label=Profile%20views&color=0e75b6&style=flat" alt="applepiofmyeye" /> </p>
 
-### As a Y2 CS student in NUS,
-
 
 - 🌱 I’m currently learning **Frontend Development in NextJS and React**
 
