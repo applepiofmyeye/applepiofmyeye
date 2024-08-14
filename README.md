@@ -6,7 +6,7 @@
 
 - 🥽 My areas of interest are **Software Development, Computer Networks, Internet of Things**
   
-- 👨‍💻 All of my projects are available [here]() [coming soon]
+- 👨‍💻 All of my projects are available [here](https://portfolio-joeylleyi.vercel.app/)
 
 - 📫 How to reach me: **joeylee@comp.nus.edu**
 
