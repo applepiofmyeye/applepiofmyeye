@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=applepiofmyeye&label=Profile%20views&color=0e75b6&style=flat" alt="applepiofmyeye" /> </p>
 
 
-- 🌱 I’m currently learning **how to lc...**
+- 🌱 I’m currently working on **several school projects**
 
 - 🥽 My areas of interest are **Software Development, Computer Networks, Internet of Things**
   
-- 👨‍💻 All of my projects are available [here](https://portfolio-joeylleyi.vercel.app/)
+- 👨‍💻 All of my projects are available [here]() (coming soon, i want to revamp my website hehe)
 
 - 📫 How to reach me: **joeylee@comp.nus.edu**
 
