@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working
 
-- 🥽 My areas of interest are **Software Development, Computer Networks, Internet of Things**
+- 🥽 My areas of interest are **Cloud Computing, Software Development, Computer Networks, Internet of Things**
   
 - 👨‍💻 All of my projects are available [here]() (coming soon, i want to revamp my website hehe)
   
