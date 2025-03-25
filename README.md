@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=applepiofmyeye&label=Profile%20views&color=0e75b6&style=flat" alt="applepiofmyeye" /> </p>
 
 
-- 🌱 I’m currently working on **several school projects**
+- 🌱 I’m currently working
 
 - 🥽 My areas of interest are **Software Development, Computer Networks, Internet of Things**
   
