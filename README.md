@@ -29,39 +29,6 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 - [Linkedin](https://www.linkedin.com/in/joeylleyi)
-
-### Software Languages:
-
-i wanted to make a lame polyglot joke but i'll save it for now :p
-
-In order of current proficiency:
-- Python
-- Typescript
-- Javascript
-- Java
-- C++
-- C
-- Go
-
-### Frontend Development:
-
-- NextJS
-- React
-- ReactNative
-- someeee SwiftUI (started learning a bit but XCode burns my laptop)
-
-### Backend:
-
-- Google Cloud
-- NodeJS (Express)
-- AWS
-
-### Databases / kind of backend too:
-
-- Firebase (Authentication, Realtime Databases, Cloud Firestore) on Google Cloud
-- MongoDB
-- Drizzle (ORM)
-- SQL
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=applepiofmyeye&show_icons=true&locale=en&layout=compact" alt="applepiofmyeye" /></p>
