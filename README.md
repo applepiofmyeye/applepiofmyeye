@@ -6,7 +6,7 @@
 
 - 🥽 My areas of interest are **Cloud Computing, Software Development, Computer Networks, Internet of Things**
   
-- 👨‍💻 All of my projects are available [here](https://spice-polo-25d.notion.site/joey?pvs=74)
+- 👨‍💻 All of my projects are available [here](https://joeyclarelee.notion.site/)
   
 - 📫 How to reach me: **joeylee@comp.nus.edu**
 
