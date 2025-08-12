@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working
 
-- 🥽 My areas of interest are **Cloud Computing, Software Development, Computer Networks, Internet of Things**
+- 🥽 My areas of interest are **Product Development, Cloud Computing, Software Development**
   
 - 👨‍💻 All of my projects are available [here](https://joeyclarelee.notion.site/)
   
