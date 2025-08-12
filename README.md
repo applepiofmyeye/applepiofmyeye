@@ -8,7 +8,7 @@
   
 - 👨‍💻 All of my projects are available [here](https://joeyclarelee.notion.site/)
   
-- 📫 How to reach me: **joeylee@comp.nus.edu**
+- 📫 How to reach me: **joeyleeleyi@gmail.com**
 
 
 <!--
