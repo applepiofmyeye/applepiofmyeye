@@ -1,4 +1,4 @@
-<a href="https://joeylleyi.vercel.app"> 
+<a href="https://joeyclare.com"> 
 <img width="2240" height="1260" alt="github banner" src="https://github.com/user-attachments/assets/8fd0eca0-ac63-47a8-aecc-714e18379db9" />
 </a>
 
